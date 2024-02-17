@@ -2,4 +2,6 @@
 tutorial
 so this is the first crack at git
 I'm very excited :)
-last line
+I guess I wasn't so excited, since it's been 3 years!
+
+So i'll now add more fluff and the commit it.
