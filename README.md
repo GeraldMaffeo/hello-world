@@ -1,7 +1,2 @@
-# hello-world
-tutorial
-so this is the first crack at git
-I'm very excited :)
-I guess I wasn't so excited, since it's been 3 years!
+# 10Calc-Android
 
-So i'll now add more fluff and the commit it.
